@@ -21,3 +21,4 @@ Prints number of nodes and edges about the graph
 ## Commands
 
 python page_rank.py school_web2024-1.txt -m stochastic -r 1000000 -n 10
+ 
